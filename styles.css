@@ -1,0 +1,45 @@
+li {
+
+    color:brown
+}
+
+#bread {
+    color:blue
+
+}
+
+.odd {
+    color: olivedrab
+}
+
+
+#loginArea {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#imageSection {
+    width:50%
+}
+
+#passwordSection {
+    width: 50%
+}
+
+#imageSection img{
+    width: 75%;
+}
+
+#welcome {
+    display: flex;
+    flex-direction: column;
+}
+
+#loginBody {
+    background-color: aqua;
+}
+
+
+
+
